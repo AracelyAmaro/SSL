@@ -1,0 +1,1 @@
+Se encontraron errores sintacticos en el archivo analizado.
